@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - DB_HOST=db
+      - DB_PORT=3306
+      - DB_USER=root
+      - DB_PASSWORD=mysecretpassword
+      - DB_NAME=water_quality_db
+    depends_on:
+      - db
+    restart: always
+
+  db:
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: mysecretpassword
+      MYSQL_DATABASE: water_quality_db
+    ports:
+      - "3307:3306" # Expose 3307 to host to avoid conflict if user has local mysql
+    volumes:
+      - db_data:/var/lib/mysql
+
+volumes:
+  db_data:

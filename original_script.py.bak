@@ -1,0 +1,114 @@
+import requests
+import pandas as pd
+import time
+from datetime import datetime
+
+# 配置请求头，模拟浏览器访问，避免被拒绝
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Accept': 'application/json, text/javascript, */*; q=0.01',
+    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+    'X-Requested-With': 'XMLHttpRequest',
+    'Origin': 'https://szzdjc.cnemc.cn:8070',
+    'Referer': 'https://szzdjc.cnemc.cn:8070/GJZ/Business/Publish/Main.html',
+}
+
+# API 接口地址 (这是网站获取实时数据的核心接口)
+url = 'https://szzdjc.cnemc.cn:8070/GJZ/Handler/GetRiverSite.ashx'
+
+def fetch_water_data():
+    """
+    爬取水质数据的主函数
+    """
+    all_data = []
+    page_index = 1
+    
+    print(f"[{datetime.now()}] 开始爬取数据...")
+    
+    while True:
+        # 构造请求参数
+        # PageSize: 每页数据量 (默认50)
+        # PageIndex: 当前页码
+        # TM: 时间戳 (防止缓存)
+        data = {
+            'PageSize': '50',
+            'PageIndex': str(page_index),
+            'TM': str(int(time.time() * 1000)), # 模拟时间戳
+            'Type': '1', # 1通常代表河流数据
+        }
+
+        try:
+            # 发送POST请求
+            response = requests.post(url, headers=headers, data=data, timeout=10)
+            
+            # 检查HTTP状态码
+            if response.status_code != 200:
+                print(f"请求失败，状态码: {response.status_code}")
+                break
+                
+            # 解析JSON数据
+            json_data = response.json()
+            
+            # 提取数据列表
+            # 注意：网站返回的数据结构可能包含在特定的键下，如 'rows'
+            rows = json_data.get('rows', [])
+            
+            # 如果没有数据了，说明爬完了所有页
+            if not rows:
+                print(f"已爬取完所有页面，共 {page_index-1} 页。")
+                break
+                
+            # 将当前页的数据添加到总列表中
+            all_data.extend(rows)
+            print(f"已爬取第 {page_index} 页，共 {len(rows)} 条记录。")
+            
+            # 防止请求过快，暂停0.5秒
+            time.sleep(0.5)
+            
+            # 页码+1
+            page_index += 1
+            
+        except Exception as e:
+            print(f"发生错误: {e}")
+            break
+    
+    return all_data
+
+def save_to_csv(data_list):
+    """
+    将数据保存为CSV文件
+    """
+    if not data_list:
+        print("没有数据可保存。")
+        return
+    
+    # 使用Pandas将字典列表转换为表格
+    df = pd.DataFrame(data_list)
+    
+    # 生成文件名，包含当前日期时间
+    filename = f"water_quality_data_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+    
+    df.to_csv(filename, index=False, encoding='utf-8-sig')
+    print(f"数据已保存至: {filename}")
+    print(f"本次共抓取 {len(df)} 条监测记录。")
+
+def main():
+    """
+    主程序入口
+    """
+    # 1. 获取数据
+    data = fetch_water_data()
+    
+    # 2. 保存数据
+    save_to_csv(data)
+
+# 如果需要定期运行，可以使用APScheduler或简单的while循环
+if __name__ == "__main__":
+    # --- 方案A: 只运行一次 ---
+    main()
+    
+    # --- 方案B: 定时循环运行 (例如每4小时运行一次) ---
+    # while True:
+    #     main()
+    #     print("等待下一次爬取 (4小时后)...")
+    #     time.sleep(4 * 60 * 60) # 睡眠4小时

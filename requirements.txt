@@ -1,0 +1,8 @@
+flask==3.0.3
+requests==2.32.3
+pandas==2.2.2
+apscheduler==3.10.4
+pymysql==1.1.0
+cryptography==42.0.7
+sqlalchemy==2.0.30
+gunicorn==22.0.0
