@@ -13782,3 +13782,33 @@ File already exists, skipping: 会昌污水处理厂_2025-12-17_化验室日报_
 File already exists, skipping: 会昌污水处理厂_2025-12-18_化验室日报_公示.xlsx
 File already exists, skipping: 会昌污水处理厂_2025-12-19_化验室日报_公示.xlsx
 Checking https://www.jxhchb.com/contents/46/23574.html...
+File already exists, skipping: 赣县城南污水处理厂_2025-12-23_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23569.html...
+File already exists, skipping: 青原区污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 青原区污水处理厂_2025-12-17_化验室日报_公示.xlsx
+File already exists, skipping: 青原区污水处理厂_2025-12-19_化验室日报_公示.xlsx
+File already exists, skipping: 青原区污水处理厂_2025-12-16_化验室日报_公示.xlsx
+File already exists, skipping: 青原区污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 青原区污水处理厂_2025-12-21_化验室日报_公示.xlsx
+File already exists, skipping: 青原区污水处理厂_2025-12-20_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23567.html...
+File already exists, skipping: 丰城洪投污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 丰城洪投污水处理厂_2025-12-16_化验室日报_公示.xlsx
+File already exists, skipping: 丰城洪投污水处理厂_2025-12-17_化验室日报_公示.xlsx
+File already exists, skipping: 丰城洪投污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 丰城洪投污水处理厂_2025-12-19_化验室日报_公示.xlsx
+File already exists, skipping: 丰城洪投污水处理厂_2025-12-20_化验室日报_公示.xlsx
+File already exists, skipping: 丰城洪投污水处理厂_2025-12-21_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23566.html...
+File already exists, skipping: 赣县城南污水处理厂_2025-12-22_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23565.html...
+File already exists, skipping: 赣县城北污水处理厂_2025-12-22_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23563.html...
+File already exists, skipping: 临川污水处理厂_2025-12-08_化验室日报.xlsx
+File already exists, skipping: 临川污水处理厂_2025-12-09_化验室日报.xlsx
+File already exists, skipping: 临川污水处理厂_2025-12-10_化验室日报.xlsx
+File already exists, skipping: 临川污水处理厂_2025-12-12_化验室日报.xlsx
+File already exists, skipping: 临川污水处理厂_2025-12-14_化验室日报.xlsx
+File already exists, skipping: 临川污水处理厂_2025-12-13_化验室日报.xlsx
+File already exists, skipping: 临川污水处理厂_2025-12-11_化验室日报.xlsx
+Checking https://www.jxhchb.com/contents/46/23562.html...
