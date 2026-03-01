@@ -13648,3 +13648,137 @@ File already exists, skipping: 金溪工业污水处理厂_2025-12-02_化验室�
 File already exists, skipping: 金溪工业污水处理厂_2025-12-07_化验室日报_公示.xlsx
 File already exists, skipping: 金溪工业污水处理厂_2025-12-03_化验室日报_公示.xlsx
 Checking https://www.jxhchb.com/contents/46/23611.html...
+File already exists, skipping: 金溪工业污水处理厂_2025-11-23_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-26_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-27_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-22_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-24_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-28_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-21_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-30_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-25_化验室日报_公示.xlsx
+File already exists, skipping: 金溪工业污水处理厂_2025-11-29_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23600.html...
+File already exists, skipping: 赣县城北污水处理厂_2025-12-26_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23599.html...
+File already exists, skipping: 吉安县污水处理厂_2025-12-11_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-12_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-13_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-14_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-16_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-17_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-19_化验室日报_公示.xlsx
+File already exists, skipping: 吉安县污水处理厂_2025-12-20_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23598.html...
+File already exists, skipping: 赣县城南污水处理厂_2025-12-26_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23597.html...
+File already exists, skipping: 广昌污水处理厂_2025-12-03_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-09_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-24_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-11_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-07_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-08_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-23_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-26_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-14_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-12_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-21_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-01_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-02_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-06_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-05_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-22_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-19_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-20_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-10_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-13_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-25_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-16_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-04_化验室日报_公示.xlsx
+File already exists, skipping: 广昌污水处理厂_2025-12-17_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23595.html...
+File already exists, skipping: 兴国污水处理厂_2025-12-23_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-22_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-16_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-17_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-19_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-21_化验室日报_公示.xlsx
+File already exists, skipping: 兴国污水处理厂_2025-12-20_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23594.html...
+File already exists, skipping: 赣县城北污水处理厂_2025-12-25_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23593.html...
+File already exists, skipping: 赣县城南污水处理厂_2025-12-25_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23592.html...
+File already exists, skipping: 南丰污水处理厂_2025-12-23_化验室日报_公示.xlsx
+File already exists, skipping: 南丰污水处理厂_2025-12-22_化验室日报_公示.xlsx
+File already exists, skipping: 南丰污水处理厂_2025-12-21_化验室日报_公示.xlsx
+File already exists, skipping: 南丰污水处理厂_2025-12-24_化验室日报_公示.xlsx
+File already exists, skipping: 南丰污水处理厂_2025-12-20_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23590.html...
+File already exists, skipping: 赣县城南污水处理厂_2025-12-24_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23589.html...
+File already exists, skipping: 赣县城北污水处理厂_2025-12-24_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23588.html...
+File already exists, skipping: 遂川污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 遂川污水处理厂_2025-12-17_化验室日报_公示.xlsx
+File already exists, skipping: 遂川污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 遂川污水处理厂_2025-12-20_化验室日报_公示.xlsx
+File already exists, skipping: 遂川污水处理厂_2025-12-21_化验室日报_公示.xlsx
+File already exists, skipping: 遂川污水处理厂_2025-12-19_化验室日报_公示.xlsx
+File already exists, skipping: 遂川污水处理厂_2025-12-16_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23582.html...
+File already exists, skipping: 寻乌污水处理厂_2025-11-02_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-01_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-17_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-19_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-06_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-09_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-15_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-03_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-10_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-08_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-07_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-28_化验室日报_公示 1.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-26_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-11_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-23_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-13_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-30_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-21_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-24_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-22_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-04_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-29_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-20_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-12_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-27_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-18_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-05_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-25_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-16_化验室日报_公示.xlsx
+File already exists, skipping: 寻乌污水处理厂_2025-11-14_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23580.html...
+File already exists, skipping: 赣县城北污水处理厂_2025-12-23_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23579.html...
+File already exists, skipping: 泰和污水处理厂_2025-12-17_化验室日报_公示.xlsx
+File already exists, skipping: 泰和污水处理厂_2025-12-16_化验室日报_公示.xlsx
+File already exists, skipping: 泰和污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 泰和污水处理厂_2025-12-20_化验室日报_公示.xlsx
+File already exists, skipping: 泰和污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 泰和污水处理厂_2025-12-21_化验室日报_公示.xlsx
+File already exists, skipping: 泰和污水处理厂_2025-12-19_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23575.html...
+File already exists, skipping: 会昌污水处理厂_2025-12-13_化验室日报_公示.xlsx
+File already exists, skipping: 会昌污水处理厂_2025-12-14_化验室日报_公示.xlsx
+File already exists, skipping: 会昌污水处理厂_2025-12-15_化验室日报_公示.xlsx
+File already exists, skipping: 会昌污水处理厂_2025-12-16_化验室日报_公示.xlsx
+File already exists, skipping: 会昌污水处理厂_2025-12-17_化验室日报_公示.xlsx
+File already exists, skipping: 会昌污水处理厂_2025-12-18_化验室日报_公示.xlsx
+File already exists, skipping: 会昌污水处理厂_2025-12-19_化验室日报_公示.xlsx
+Checking https://www.jxhchb.com/contents/46/23574.html...
