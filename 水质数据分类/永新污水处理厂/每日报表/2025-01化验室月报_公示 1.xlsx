@@ -1,0 +1,1848 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2025-03-10T11:27:30</o:Created>
+     <o:LastAuthor>燕子</o:LastAuthor>
+     <o:LastSaved>2025-03-11T10:06:57</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt="string">6CB4AF4C2F51496B9BB2DA1DF5DF891C_12</o:ICV>
+     <o:KSOProductBuildVer dt:dt="string">2052-12.1.0.20305</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:10.5pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Helvetica Neue";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#0000FF;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#FF0000;
+	font-size:10.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font22
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font23
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_ \\¥* \#\,\#\#0\.00_ \;_ \\¥* \\-\#\,\#\#0\.00_ \;_ \\¥* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style19
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style20
+	{mso-number-format:"_ \\¥* \#\,\#\#0_ \;_ \\¥* \\-\#\,\#\#0_ \;_ \\¥* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style21
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style22
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style23
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style24
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style25
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style26
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style27
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style28
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style29
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style32
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style33
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style34
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style35
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style36
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style37
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style39
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style40
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style41
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style42
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style43
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style44
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style45
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style46
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style47
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style48
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style49
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style50
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style51
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style52
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style53
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style54
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style57
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style58
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style61
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl67
+	{mso-style-parent:style0;
+	mso-number-format:"mmm\\-yy";
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border-left:1.0pt solid #C2C2C2;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid #C2C2C2;
+	border-bottom:1.0pt solid #C2C2C2;}
+.xl70
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border-left:1.0pt solid #C2C2C2;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid #C2C2C2;}
+.xl71
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-top:1.0pt solid #000000;
+	border-right:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl72
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border:1.0pt solid #000000;}
+.xl73
+	{mso-style-parent:style0;
+	mso-number-format:"yyyy\0022年\0022m\0022月\0022d\0022日\0022";
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-top:1.0pt solid #000000;
+	border-right:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl74
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#0000FF;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border:1.0pt solid #000000;}
+.xl75
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border:1.0pt solid #000000;}
+.xl76
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-top:1.0pt solid #000000;
+	border-right:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl77
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#FF0000;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border:1.0pt solid #000000;}
+.xl78
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-top:1.0pt solid #000000;
+	border-right:1.0pt solid #000000;
+	border-bottom:.5pt solid windowtext;}
+.xl79
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-right:1.0pt solid #000000;
+	border-bottom:.5pt solid windowtext;}
+.xl80
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#DEEAF6;
+	font-size:10.5pt;
+	font-weight:700;
+	font-family:Helvetica Neue;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid #000000;}
+.xl81
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid #000000;}
+.xl82
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.5pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>2025-01化验室月报_公示 (1)</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>270</x:DefaultRowHeight>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>13</x:ActiveCol>
+          <x:ActiveRow>1</x:ActiveRow>
+          <x:RangeSelection>N2:Q37</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:SelectedSheets>0</x:SelectedSheets>
+     <x:WindowHeight>12375</x:WindowHeight>
+     <x:WindowWidth>27945</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple" class="xl65">
+  <table width="853" border="0" cellpadding="0" cellspacing="0" style='width:639.75pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="112" class="xl65" style='mso-width-source:userset;mso-width-alt:3584;'/>
+   <col width="59" class="xl65" style='mso-width-source:userset;mso-width-alt:1888;'/>
+   <col width="43" class="xl65" style='mso-width-source:userset;mso-width-alt:1376;'/>
+   <col width="1" class="xl65" style='mso-width-source:userset;mso-width-alt:32;'/>
+   <col width="42" class="xl65" style='mso-width-source:userset;mso-width-alt:1344;'/>
+   <col width="0" class="xl65" style='display:none;mso-width-source:userset;mso-width-alt:1920;'/>
+   <col width="60" class="xl65" style='mso-width-source:userset;mso-width-alt:1920;'/>
+   <col width="59" class="xl65" style='mso-width-source:userset;mso-width-alt:1888;'/>
+   <col width="51" span="2" class="xl65" style='mso-width-source:userset;mso-width-alt:1632;'/>
+   <col width="59" class="xl65" style='mso-width-source:userset;mso-width-alt:1888;'/>
+   <col width="43" class="xl65" style='mso-width-source:userset;mso-width-alt:1376;'/>
+   <col width="50" class="xl65" style='mso-width-source:userset;mso-width-alt:1600;'/>
+   <col width="0" class="xl65" style='display:none;mso-width-source:userset;mso-width-alt:1312;'/>
+   <col width="50" class="xl65" style='mso-width-source:userset;mso-width-alt:1600;'/>
+   <col width="0" class="xl65" style='display:none;mso-width-source:userset;mso-width-alt:1312;'/>
+   <col width="41" class="xl65" style='mso-width-source:userset;mso-width-alt:1312;'/>
+   <col width="2" class="xl65" style='mso-width-source:userset;mso-width-alt:64;'/>
+   <col width="43" class="xl65" style='mso-width-source:userset;mso-width-alt:1376;'/>
+   <col width="87" class="xl65" style='mso-width-source:userset;mso-width-alt:2784;'/>
+   <col width="72" span="236" class="xl65" style='mso-width-source:userset;mso-width-alt:2304;'/>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl66" height="33" width="112" style='height:24.75pt;width:84.00pt;' x:str>时间</td>
+    <td class="xl67" width="102" colspan="2" style='width:76.50pt;border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:num="45658.">Jan-25</td>
+    <td class="xl68" width="43" colspan="2" style='width:32.25pt;border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>厂站名称</td>
+    <td class="xl69" width="60" colspan="2" style='width:45.00pt;border-right:1.0pt solid #C2C2C2;border-bottom:1.0pt solid #C2C2C2;' x:str>永新污水处理厂</td>
+    <td class="xl70" width="536" colspan="13" style='width:402.00pt;border-right:.5pt solid windowtext;border-bottom:1.0pt solid #C2C2C2;' x:str>化验室月报表</td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl71" height="66" rowspan="2" style='height:49.50pt;border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>项目</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>COD(㎎/l)</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>BOD5(㎎/l)</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>SS(㎎/l)</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>NH3-N(㎎/l)</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>TN(㎎/l)</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>TP(㎎/l)</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>水温（℃）</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>色度</td>
+    <td class="xl72" colspan="2" style='border-right:1.0pt solid #000000;border-bottom:1.0pt solid #000000;' x:str>PH</td>
+    <td class="xl80" x:str>粪大肠杆菌</td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl72" x:str>进水</td>
+    <td class="xl72" x:str>出水</td>
+    <td class="xl80" x:str>出水</td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45658.">2025年1月1日</td>
+    <td class="xl74" x:num>86.14</td>
+    <td class="xl74" x:num>3.03</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>12.552</td>
+    <td class="xl74" x:num>0.493</td>
+    <td class="xl75" x:num>17.7</td>
+    <td class="xl74" x:num>8.72</td>
+    <td class="xl75" x:num>2.02</td>
+    <td class="xl74" x:num>0.065</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.74</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="7.0599999999999996"></td>
+    <td class="xl74" x:num>6.59</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45659.">2025年1月2日</td>
+    <td class="xl74" x:num>80.4</td>
+    <td class="xl74" x:num>4.87</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>12.6</td>
+    <td class="xl74" x:num>0.622</td>
+    <td class="xl75" x:num>20.5</td>
+    <td class="xl74" x:num>8.71</td>
+    <td class="xl75" x:num>2.17</td>
+    <td class="xl74" x:num>0.141</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.53</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="7.0300000000000002"></td>
+    <td class="xl74" x:num>6.58</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45660.">2025年1月3日</td>
+    <td class="xl74" x:num>119.52</td>
+    <td class="xl74" x:num>3.08</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.864</td>
+    <td class="xl74" x:num>0.421</td>
+    <td class="xl75" x:num>16.6</td>
+    <td class="xl74" x:num>8.013</td>
+    <td class="xl75" x:num>2.15</td>
+    <td class="xl74" x:num>0.142</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.39</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.7300000000000004"></td>
+    <td class="xl74" x:num>6.63</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45661.">2025年1月4日</td>
+    <td class="xl74" x:num>113.97</td>
+    <td class="xl74" x:num>4.42</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>19.3</td>
+    <td class="xl74" x:num>0.375</td>
+    <td class="xl75" x:num>21</td>
+    <td class="xl74" x:num>8.098</td>
+    <td class="xl75" x:num>2.48</td>
+    <td class="xl74" x:num>0.189</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.58</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.7599999999999998"></td>
+    <td class="xl74" x:num>6.61</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45662.">2025年1月5日</td>
+    <td class="xl74" x:num>118.58</td>
+    <td class="xl74" x:num>4.36</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>18.063</td>
+    <td class="xl74" x:num>0.981</td>
+    <td class="xl75" x:num>25.7</td>
+    <td class="xl74" x:num>10.705</td>
+    <td class="xl75" x:num>2.44</td>
+    <td class="xl74" x:num>0.255</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.84</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.5"></td>
+    <td class="xl74" x:num>6.39</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45663.">2025年1月6日</td>
+    <td class="xl74" x:num>135.86</td>
+    <td class="xl74" x:num>5.51</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>24.053</td>
+    <td class="xl74" x:num>0.967</td>
+    <td class="xl75" x:num>26.3</td>
+    <td class="xl74" x:num>11.34</td>
+    <td class="xl75" x:num>2.51</td>
+    <td class="xl74" x:num>0.158</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.03</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="7.1200000000000001"></td>
+    <td class="xl74" x:num>6.36</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45664.">2025年1月7日</td>
+    <td class="xl74" x:num>117.93</td>
+    <td class="xl74" x:num>5.96</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>23.76</td>
+    <td class="xl74" x:num>0.325</td>
+    <td class="xl75" x:num>27</td>
+    <td class="xl74" x:num>10.936</td>
+    <td class="xl75" x:num>2.44</td>
+    <td class="xl74" x:num>0.227</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.59</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="7.5899999999999999"></td>
+    <td class="xl74" x:num>6.44</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45665.">2025年1月8日</td>
+    <td class="xl74" x:num>135.87</td>
+    <td class="xl74" x:num>6.38</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>23.9</td>
+    <td class="xl74" x:num>0.143</td>
+    <td class="xl75" x:num>28.4</td>
+    <td class="xl74" x:num>12.03</td>
+    <td class="xl75" x:num>2.18</td>
+    <td class="xl74" x:num>0.106</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.72</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="7.29"></td>
+    <td class="xl74" x:num>6.47</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45666.">2025年1月9日</td>
+    <td class="xl74" x:num>127</td>
+    <td class="xl74" x:num>11.3</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>23.7</td>
+    <td class="xl74" x:num>0.995</td>
+    <td class="xl75" x:num>28.6</td>
+    <td class="xl74" x:num>10.7</td>
+    <td class="xl75" x:num>2.33</td>
+    <td class="xl74" x:num>0.169</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.59</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="7.2599999999999998"></td>
+    <td class="xl74" x:num>6.67</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45667.">2025年1月10日</td>
+    <td class="xl74" x:num>126.84</td>
+    <td class="xl74" x:num>5.36</td>
+    <td class="xl75" x:num="66.799999999999997"></td>
+    <td class="xl75" x:num>3.23</td>
+    <td class="xl75" x:num="72."></td>
+    <td class="xl75" x:num>2</td>
+    <td class="xl74" x:num>18.239</td>
+    <td class="xl74" x:num>0.351</td>
+    <td class="xl75" x:num>28.5</td>
+    <td class="xl74" x:num>11.991</td>
+    <td class="xl75" x:num>2.57</td>
+    <td class="xl74" x:num>0.125</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.03</td>
+    <td class="xl75"></td>
+    <td class="xl75" x:num>2</td>
+    <td class="xl74" x:num="7."></td>
+    <td class="xl74" x:num>6.58</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45668.">2025年1月11日</td>
+    <td class="xl74" x:num>92.7</td>
+    <td class="xl74" x:num>3.2</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>22.6</td>
+    <td class="xl74" x:num>0.252</td>
+    <td class="xl75" x:num>25.7</td>
+    <td class="xl74" x:num>11.512</td>
+    <td class="xl75" x:num>2.37</td>
+    <td class="xl74" x:num>0.173</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.56</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="7.5099999999999998"></td>
+    <td class="xl74" x:num>6.6</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45669.">2025年1月12日</td>
+    <td class="xl74" x:num>109.45</td>
+    <td class="xl74" x:num>3.64</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>23.1</td>
+    <td class="xl74" x:num>0.226</td>
+    <td class="xl75" x:num>27.6</td>
+    <td class="xl74" x:num>11.236</td>
+    <td class="xl75" x:num>2.23</td>
+    <td class="xl74" x:num>0.125</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.41</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.5099999999999998"></td>
+    <td class="xl74" x:num>6.61</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45670.">2025年1月13日</td>
+    <td class="xl74" x:num>128.8</td>
+    <td class="xl74" x:num>3.86</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>20.694</td>
+    <td class="xl74" x:num>0.4</td>
+    <td class="xl75" x:num>30.2</td>
+    <td class="xl74" x:num>14.006</td>
+    <td class="xl75" x:num>2.34</td>
+    <td class="xl74" x:num>0.185</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.51</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.6500000000000004"></td>
+    <td class="xl74" x:num>6.55</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45671.">2025年1月14日</td>
+    <td class="xl74" x:num>164.32</td>
+    <td class="xl74" x:num>4.84</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>26.425</td>
+    <td class="xl74" x:num>0.416</td>
+    <td class="xl75" x:num>27.2</td>
+    <td class="xl74" x:num>11.185</td>
+    <td class="xl75" x:num>3.55</td>
+    <td class="xl74" x:num>0.269</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.05</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.5999999999999996"></td>
+    <td class="xl74" x:num>6.63</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45672.">2025年1月15日</td>
+    <td class="xl74" x:num>150.32</td>
+    <td class="xl74" x:num>4.24</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>28.28</td>
+    <td class="xl74" x:num>1.17</td>
+    <td class="xl75" x:num>32.1</td>
+    <td class="xl74" x:num>12.54</td>
+    <td class="xl75" x:num>2.43</td>
+    <td class="xl74" x:num>0.168</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.27</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.9199999999999999"></td>
+    <td class="xl74" x:num>6.64</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45673.">2025年1月16日</td>
+    <td class="xl74" x:num>148.13</td>
+    <td class="xl74" x:num>4.5</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>20.655</td>
+    <td class="xl74" x:num>0.59</td>
+    <td class="xl75" x:num>32.4</td>
+    <td class="xl74" x:num>12.325</td>
+    <td class="xl75" x:num>2.35</td>
+    <td class="xl74" x:num>0.15</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.16</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.9800000000000004"></td>
+    <td class="xl74" x:num>6.47</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45674.">2025年1月17日</td>
+    <td class="xl74" x:num>141.82</td>
+    <td class="xl74" x:num>8.55</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>22.713</td>
+    <td class="xl74" x:num>0.793</td>
+    <td class="xl75" x:num>27.7</td>
+    <td class="xl74" x:num>13.841</td>
+    <td class="xl75" x:num>2.15</td>
+    <td class="xl74" x:num>0.124</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.88</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.96"></td>
+    <td class="xl74" x:num>6.58</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45675.">2025年1月18日</td>
+    <td class="xl74" x:num>160.73</td>
+    <td class="xl74" x:num>7.91</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>19.571</td>
+    <td class="xl74" x:num>0.491</td>
+    <td class="xl75" x:num>25.6</td>
+    <td class="xl74" x:num>9.285</td>
+    <td class="xl75" x:num>2.02</td>
+    <td class="xl74" x:num>0.127</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.04</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.8700000000000001"></td>
+    <td class="xl74" x:num>6.82</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45676.">2025年1月19日</td>
+    <td class="xl74" x:num>163.04</td>
+    <td class="xl74" x:num>5.56</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>22.253</td>
+    <td class="xl74" x:num>1.065</td>
+    <td class="xl75" x:num>27.5</td>
+    <td class="xl74" x:num>12.771</td>
+    <td class="xl75" x:num>2.08</td>
+    <td class="xl74" x:num>0.102</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.28</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.8200000000000003"></td>
+    <td class="xl74" x:num>6.63</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45677.">2025年1月20日</td>
+    <td class="xl74" x:num>176.1</td>
+    <td class="xl74" x:num>6.51</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>25.307</td>
+    <td class="xl74" x:num>0.612</td>
+    <td class="xl75" x:num>25.8</td>
+    <td class="xl74" x:num>11.915</td>
+    <td class="xl75" x:num>2.02</td>
+    <td class="xl74" x:num>0.073</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.45</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.79"></td>
+    <td class="xl74" x:num>6.75</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45678.">2025年1月21日</td>
+    <td class="xl74" x:num>172.79</td>
+    <td class="xl74" x:num>7.87</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>18.011</td>
+    <td class="xl74" x:num>1.745</td>
+    <td class="xl75" x:num>28</td>
+    <td class="xl74" x:num>12.285</td>
+    <td class="xl75" x:num>2.14</td>
+    <td class="xl74" x:num>0.079</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.55</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.8099999999999996"></td>
+    <td class="xl74" x:num>6.79</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45679.">2025年1月22日</td>
+    <td class="xl74" x:num>116.37</td>
+    <td class="xl74" x:num>6</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>17.311</td>
+    <td class="xl74" x:num>1.084</td>
+    <td class="xl75" x:num>24.8</td>
+    <td class="xl74" x:num>10.204</td>
+    <td class="xl75" x:num>2.03</td>
+    <td class="xl74" x:num>0.073</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.78</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.8200000000000003"></td>
+    <td class="xl74" x:num>6.72</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45680.">2025年1月23日</td>
+    <td class="xl74" x:num>161</td>
+    <td class="xl74" x:num>5.58</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>17.7</td>
+    <td class="xl74" x:num>2.15</td>
+    <td class="xl75" x:num>26.3</td>
+    <td class="xl74" x:num>10.7</td>
+    <td class="xl75" x:num>2.05</td>
+    <td class="xl74" x:num>0.061</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.82</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.4800000000000004"></td>
+    <td class="xl74" x:num>6.54</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45681.">2025年1月24日</td>
+    <td class="xl74" x:num>200.41</td>
+    <td class="xl74" x:num>7.71</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.743</td>
+    <td class="xl74" x:num>2.188</td>
+    <td class="xl75" x:num>25.4</td>
+    <td class="xl74" x:num>10.997</td>
+    <td class="xl75" x:num>2.16</td>
+    <td class="xl74" x:num>0.172</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.85</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.1600000000000001"></td>
+    <td class="xl74" x:num>6.54</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45682.">2025年1月25日</td>
+    <td class="xl74" x:num>207.88</td>
+    <td class="xl74" x:num>7.07</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>8.877</td>
+    <td class="xl74" x:num>0.464</td>
+    <td class="xl75" x:num>25.2</td>
+    <td class="xl74" x:num>8.873</td>
+    <td class="xl75" x:num>1.98</td>
+    <td class="xl74" x:num>0.135</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.71</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.1799999999999997"></td>
+    <td class="xl74" x:num>6.58</td>
+    <td class="xl81" x:num>113</td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45683.">2025年1月26日</td>
+    <td class="xl74" x:num>206.24</td>
+    <td class="xl74" x:num>7.37</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>10.076</td>
+    <td class="xl74" x:num>0.19</td>
+    <td class="xl75" x:num>17.8</td>
+    <td class="xl74" x:num>7.171</td>
+    <td class="xl75" x:num>2.09</td>
+    <td class="xl74" x:num>0.14</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.06</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.1500000000000004"></td>
+    <td class="xl74" x:num>6.59</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45684.">2025年1月27日</td>
+    <td class="xl74" x:num>211.9</td>
+    <td class="xl74" x:num>9.88</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>12.024</td>
+    <td class="xl74" x:num>0.407</td>
+    <td class="xl75" x:num>17.4</td>
+    <td class="xl74" x:num>7.893</td>
+    <td class="xl75" x:num>1.88</td>
+    <td class="xl74" x:num>0.117</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.52</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.1100000000000003"></td>
+    <td class="xl74" x:num>6.55</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45685.">2025年1月28日</td>
+    <td class="xl74" x:num>178.44</td>
+    <td class="xl74" x:num>7.69</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.3</td>
+    <td class="xl74" x:num>0.379</td>
+    <td class="xl75" x:num>17.1</td>
+    <td class="xl74" x:num>9.56</td>
+    <td class="xl75" x:num>1.83</td>
+    <td class="xl74" x:num>0.103</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.46</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.0999999999999996"></td>
+    <td class="xl74" x:num>6.49</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45686.">2025年1月29日</td>
+    <td class="xl74" x:num>177.43</td>
+    <td class="xl74" x:num>7.51</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>17.042</td>
+    <td class="xl74" x:num>0.481</td>
+    <td class="xl75" x:num>18.5</td>
+    <td class="xl74" x:num>10.075</td>
+    <td class="xl75" x:num>1.94</td>
+    <td class="xl74" x:num>0.11</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.86</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.1299999999999999"></td>
+    <td class="xl74" x:num>6.49</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45687.">2025年1月30日</td>
+    <td class="xl74" x:num>145</td>
+    <td class="xl74" x:num>6.69</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.5</td>
+    <td class="xl74" x:num>0.385</td>
+    <td class="xl75" x:num>21.9</td>
+    <td class="xl74" x:num>7.37</td>
+    <td class="xl75" x:num>1.86</td>
+    <td class="xl74" x:num>0.191</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.08</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.1100000000000003"></td>
+    <td class="xl74" x:num>6.52</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl73" height="33" style='height:24.75pt;' x:num="45688.">2025年1月31日</td>
+    <td class="xl74" x:num>89.7</td>
+    <td class="xl74" x:num>5.76</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>14.9</td>
+    <td class="xl74" x:num>0.189</td>
+    <td class="xl75" x:num>18.5</td>
+    <td class="xl74" x:num>8.653</td>
+    <td class="xl75" x:num>1.97</td>
+    <td class="xl74" x:num>0.158</td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num>15.37</td>
+    <td class="xl75"></td>
+    <td class="xl75"></td>
+    <td class="xl74" x:num="6.1200000000000001"></td>
+    <td class="xl74" x:num>6.43</td>
+    <td class="xl81"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl76" height="33" style='height:24.75pt;' x:str>月平均</td>
+    <td class="xl75" x:num>144.02</td>
+    <td class="xl75" x:num>6.01</td>
+    <td class="xl75" x:num="66.799999999999997"></td>
+    <td class="xl75" x:num>3.23</td>
+    <td class="xl75" x:num="72."></td>
+    <td class="xl75" x:num>2</td>
+    <td class="xl75" x:num>18.84</td>
+    <td class="xl75" x:num>0.69</td>
+    <td class="xl75" x:num>24.61</td>
+    <td class="xl75" x:num>10.5</td>
+    <td class="xl75" x:num>2.22</td>
+    <td class="xl75" x:num>0.14</td>
+    <td class="xl75" x:num="0."></td>
+    <td class="xl75" x:num>15.09</td>
+    <td class="xl75" x:num="0."></td>
+    <td class="xl75" x:num>2</td>
+    <td class="xl75" x:num="6.71"></td>
+    <td class="xl75" x:num>6.58</td>
+    <td class="xl81" x:num>113</td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl76" height="33" style='height:24.75pt;' x:str>最高值</td>
+    <td class="xl75" x:num>211.9</td>
+    <td class="xl75" x:num>11.3</td>
+    <td class="xl75" x:num="66.799999999999997"></td>
+    <td class="xl75" x:num>3.23</td>
+    <td class="xl75" x:num="72."></td>
+    <td class="xl75" x:num>2</td>
+    <td class="xl77" x:num>28.28</td>
+    <td class="xl75" x:num>2.19</td>
+    <td class="xl75" x:num>32.4</td>
+    <td class="xl75" x:num>14.01</td>
+    <td class="xl75" x:num>3.55</td>
+    <td class="xl75" x:num>0.27</td>
+    <td class="xl75" x:num="0."></td>
+    <td class="xl75" x:num>15.85</td>
+    <td class="xl75" x:num="0."></td>
+    <td class="xl75" x:num>2</td>
+    <td class="xl75" x:num="7.5899999999999999"></td>
+    <td class="xl75" x:num>6.82</td>
+    <td class="xl81" x:num>113</td>
+   </tr>
+   <tr height="33" style='height:24.75pt;mso-height-source:userset;mso-height-alt:495;'>
+    <td class="xl78" height="33" style='height:24.75pt;' x:str>最低值</td>
+    <td class="xl79" x:num>80.4</td>
+    <td class="xl79" x:num>3.03</td>
+    <td class="xl79" x:num="66.799999999999997"></td>
+    <td class="xl79" x:num>3.23</td>
+    <td class="xl79" x:num="72."></td>
+    <td class="xl79" x:num>2</td>
+    <td class="xl79" x:num>8.88</td>
+    <td class="xl79" x:num>0.14</td>
+    <td class="xl79" x:num>16.6</td>
+    <td class="xl79" x:num>7.17</td>
+    <td class="xl79" x:num>1.83</td>
+    <td class="xl79" x:num>0.06</td>
+    <td class="xl79" x:num="0."></td>
+    <td class="xl79" x:num>14.39</td>
+    <td class="xl79" x:num="0."></td>
+    <td class="xl79" x:num>2</td>
+    <td class="xl79" x:num="6.0999999999999996"></td>
+    <td class="xl79" x:num>6.36</td>
+    <td class="xl82" x:num>113</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="112" style='width:84;'></td>
+     <td width="59" style='width:44;'></td>
+     <td width="43" style='width:32;'></td>
+     <td width="1" style='width:1;'></td>
+     <td width="42" style='width:32;'></td>
+     <td width="0" style='width:0;'></td>
+     <td width="60" style='width:45;'></td>
+     <td width="59" style='width:44;'></td>
+     <td width="51" style='width:38;'></td>
+     <td width="59" style='width:44;'></td>
+     <td width="43" style='width:32;'></td>
+     <td width="50" style='width:38;'></td>
+     <td width="0" style='width:0;'></td>
+     <td width="50" style='width:38;'></td>
+     <td width="0" style='width:0;'></td>
+     <td width="41" style='width:31;'></td>
+     <td width="2" style='width:2;'></td>
+     <td width="43" style='width:32;'></td>
+     <td width="87" style='width:65;'></td>
+     <td width="72" style='width:54;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
